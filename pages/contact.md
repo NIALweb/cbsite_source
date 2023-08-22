@@ -8,4 +8,4 @@ permalink: /contact.html
 
 For more information about NIAL, including institutional membership, please contact the current Chair of the Board of Directors:
 
-- [Ben Hunter](mailto:bhunter@uidaho.edu), Dean of Libraries at the University of Idaho 
+- [Reba Puente](mailto:rpuente@csi.edu), Library Director at the College of Southern Idaho

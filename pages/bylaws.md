@@ -33,7 +33,7 @@ _Accepted 4/19/2021_
 
 ### **Article V.** Meetings
 
-* **Section 1.** Regular meetings of the Board are held on a triennial basis loosely corresponding to the academic year. These three periods are defined as spring (January through April), summer (May through August), and fall (September through December). Special meetings may be called by any member of the Board.
+* **Section 1.** Regular meetings of the Board are held every other month. Special meetings may be called by any member of the Board.
 * **Section 2.** Regular meetings are to be scheduled at least four weeks in advance with an accompanying call for agenda items. Special meetings must be scheduled at least two weeks in advance.
 * **Section 3.** The Chair of the Board is responsible for both scheduling regular meetings and securing virtual access for all members. Meetings may be held in a physical location provided that virtual attendance is available for remote participation.
 * **Section 4.** Meetings of the Board are conducted using the latest edition of Robert’s Rules of Order, though relaxed rules of procedure are strongly encouraged and are considered the default. The Chair has discretion to require a formal implementation at any time during a meeting.
